@@ -1,8 +1,8 @@
 # Simple console application for face recognition in python, opencv and deepface
 
 ### Installation
-#### 1)git clone https://github.com/Dmitr15/web-scrapr.git
-#### 2)cd web-scrapr
+#### 1)git clone git@github.com:Dmitr15/face-recognition-in-real-time.git
+#### 2)cd face-recognition-in-real-time
 #### 3)pip install -r requirements.txt
 #### 4)Add face photo in project
 #### 5)Download vgg_face_weights.h5 file
